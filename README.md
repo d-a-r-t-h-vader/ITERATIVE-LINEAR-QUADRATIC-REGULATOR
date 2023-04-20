@@ -12,4 +12,7 @@ Following are the plots for quadrotor reach a vertical orientation θ = π/2 at 
 
 we want the robot to do a full flip, trying to reach the upside-down state x = 1.5,y=3and = att=5anduprightstatex=3,y=0andθ=2π
 at T = 10 It was difficult to tune the flip. I was able to do the flip but quadrotor lost control after that. As you can see in the plots, theta reaches 180 degrees but looses control afterwards. Following are the plots for the same:
+
+<img width="795" alt="Screen Shot 2023-04-20 at 2 57 24 PM" src="https://user-images.githubusercontent.com/57395643/233462139-6774c371-f8d4-4c53-a427-9620b52cf0f8.png">
+
 <img width="591" alt="Screen Shot 2023-04-20 at 2 57 30 PM" src="https://user-images.githubusercontent.com/57395643/233461951-63ce8e02-6c1a-4258-9995-e45b707dec83.png">
